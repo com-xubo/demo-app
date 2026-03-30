@@ -28,7 +28,7 @@ jobs:
         with:
           context: ./app
           push: true
-          tags: 13230610263@163.com/demo:latest
+          tags: xubo516/demo:latest
 
   deploy:
     runs-on: ubuntu-latest
